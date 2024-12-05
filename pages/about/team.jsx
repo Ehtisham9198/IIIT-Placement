@@ -465,7 +465,7 @@ export default function PlacementTeam() {
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
-              src="/tpcell/team/tejasweePc.jpg"
+               src="/tpcell/team/ankita.webp"
               height={290}
               width={250}
               objectFit="cover"
