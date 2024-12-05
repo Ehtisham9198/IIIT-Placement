@@ -415,6 +415,30 @@ export default function PlacementTeam() {
           </div>
         </div>
 
+
+        <div className="row">
+          <div className="col-12 col-sm-2">
+            <Image
+              src="/tpcell/team/tejasweePc.jpg"
+              height={290}
+              width={250}
+              objectFit="cover"
+            />
+          </div>
+          <div className="col-10">
+            <p>
+              <strong>Tejaswee Kumar Singh</strong>
+              <p>
+              Computer Science Engineering, Batch of 2026
+                <div>Phone: +91 7205147088</div>
+                <Link href="mailto:b122021@iiit-bh.ac.in">
+                  Email – b1220125@iiit-bh.ac.in
+                </Link>
+              </p>
+            </p>
+          </div>
+        </div>
+
         <div className="row">
           <div className="col-12 col-sm-2">
             <Image
