@@ -1,0 +1,35 @@
+.layout {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  margin-bottom: -10px;
+  overflow-x: hidden;
+}
+.main {
+  min-height: 50vh;
+  margin-top: 2rem;
+}
+
+
+.breadcrumbItem {
+  text-decoration: none !important;
+  font-weight: bold;
+  color: #72df95!important;
+  text-align: center;
+  
+}
+.breadcrumbItem:hover {
+  color: #009B32!important;
+}
+.breadcrumbItem > a{
+  font-weight: bold;
+  color: #ffffff!important;
+  text-decoration: underline !important;
+}
+.breadcrumbItem > a:hover{
+  color: #fffab1!important;
+  text-decoration: none !important;
+}
+.textGreen{
+  color: #efefef!important;
+}
