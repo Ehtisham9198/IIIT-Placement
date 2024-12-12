@@ -475,12 +475,12 @@ export default function PlacementTeam() {
           </div>
           <div className="col-10">
             <p>
-              <strong>K S pinaki sahu</strong>
+              <strong>K S Pinaki Sahoo</strong>
               <p>
-              Computer wEngineering, Batch of 2026
+              Computer Engineering, Batch of 2026
                 <div>Phone: +91 8221831052</div>
                 <Link href="mailto:b122021@iiit-bh.ac.in">
-                  Email – b522021@iiit-bh.ac.in
+                  Email – b522026@iiit-bh.ac.in
                 </Link>
               </p>
             </p>
